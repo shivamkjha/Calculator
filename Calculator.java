@@ -1,6 +1,6 @@
-package com.nishant;
+// package com.nishant;
 import java.util.Scanner;
-public class Main {
+public class Calculator {
     public static void main(String[] args) {
         while (true){
             System.out.println();
