@@ -1,2 +1,4 @@
 #calculator
-####### a simple text based calculator app.
+
+a basic text based calculator app.
+
