@@ -16,7 +16,7 @@ public class Calculator {
             double ans = 1;
             switch (operation) {
                 case '+' -> ans = num1 + num2;
-                case '-' -> ans = num1 - num2;
+                case '-' -> ans = num1 - num2; //nishant chutiya hai 😂
                 case '/' -> ans = num1 / num2;
                 case '*' -> ans = num1 * num2;
                 case '!' -> {
