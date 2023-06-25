@@ -1,4 +1,4 @@
-#calculator
+# calculator
 
-a basic text based calculator app.
+A basic text based calculator app made in JAVA.
 
